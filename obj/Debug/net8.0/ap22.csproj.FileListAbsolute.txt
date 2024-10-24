@@ -1,0 +1,14 @@
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.AssemblyInfo.cs
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\bin\Debug\net8.0\ap22.exe
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\bin\Debug\net8.0\ap22.deps.json
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\bin\Debug\net8.0\ap22.runtimeconfig.json
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\bin\Debug\net8.0\ap22.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\bin\Debug\net8.0\ap22.pdb
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\refint\ap22.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.pdb
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ap22.genruntimeconfig.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\ap22\obj\Debug\net8.0\ref\ap22.dll
